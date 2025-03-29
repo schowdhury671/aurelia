@@ -1,2 +1,2 @@
 # Aurelia
-codebase and dataset for Aurelia (Coming soon)!
+Codebase and dataset for Aurelia: Test-time Reasoning Distillation in Audio-Visual LLMs (Coming soon)!
