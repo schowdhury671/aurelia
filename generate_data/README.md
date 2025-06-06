@@ -14,5 +14,9 @@ export GOOGLE_API_KEY=""
 
 ### Run
 ```
-python gen_data.py --save_path "reason_data.json" --video_path "sample.mp4" --audio_path "sample.mp3" --query "What is the most popular food of the country where the loudest instrument originates from?" --max_tries 5
+python gen_data.py --save_path "reason_data.json" \
+                   --video_path "sample.mp4" \
+                   --audio_path "sample.mp3" \
+                   --query "What is the most popular food of the country where the loudest instrument originates from?" \
+                   --max_tries 5
 ```
