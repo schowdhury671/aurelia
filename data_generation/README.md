@@ -15,7 +15,7 @@ export OPENAI_API_KEY=""
 export GOOGLE_API_KEY=""
 ```
 
-### Run the data generatio pipeline
+### Run the data generation pipeline
 ```
 python gen_data.py --save_path "reason_data.json" \
                    --video_path "sample.mp4" \
