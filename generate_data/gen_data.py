@@ -112,9 +112,10 @@ def run_gpt_summarizer(reasoning_steps, reasoning_answer, final_answer, question
     Discard any world knowledge not present in the video/audio context."""
 
     prompt = f"""Reasoning: {reasoning_steps}
-Reasoning answer: {reasoning_answer}
-Final answer: {final_answer}
-Question: {question}"""
+    Reasoning answer: {reasoning_answer}
+    Final answer: {final_answer}
+    Question: {question}"""
+    MODEL = "gpt-4o"
 
     completion = client.chat.completions.create(
         model=MODEL,
