@@ -1,5 +1,7 @@
 # AURELIA : Test‑time Reasoning Distillation in Audio‑Visual LLMs
-[Paper](https://arxiv.org/abs/2503.23219) · [Project page](https://schowdhury671.github.io/aurelia_project/)
+[📄 Paper](https://arxiv.org/abs/2503.23219) · [🌐 Project Page](https://schowdhury671.github.io/aurelia_project/)
+
+### AURELIA : Test‑time Reasoning Distillation in Audio‑Visual LLMs is accepted to ICCV 2025!! 🎉🎉
 
 <p align="center">
   <img src="diagrams/aurelia_banner.png" alt="AURELIA" width="80%"/>
