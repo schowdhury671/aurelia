@@ -77,7 +77,9 @@ Given below are the links to the checkpoints of the public AV-LLMs.
 | VITA | 7 B | <https://github.com/VITA-MLLM/VITA> |
 | Bay‑CAT | 7 B | <https://github.com/rikeilong/Bay-CAT> |
 | video‑SALMONN | 7 B | <https://github.com/bytedance/SALMONN/tree/videosalmonn> |
-| **Closed‑source** | — | [Gemini 1.5 Pro](https://ai.google.dev/gemini) · [Reka Core](https://reka.ai) |
+| AVicuna | 7 B | <https://github.com/yunlong10/AVicuna> | 
+| Gemini-1.5-Pro | | <https://ai.google.dev/gemini>  |
+| Reka Core | | <https://reka.ai> |
 
 ---
 
