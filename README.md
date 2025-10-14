@@ -83,6 +83,70 @@ Given below are the links to the checkpoints of the public AV-LLMs.
 
 ---
 
+
+## 🎬 Data Preparation
+
+**AURELIA** is evaluated on **AVReasonBench** – a curated collection of **4,500 audio-visual QA samples** paired with gold reasoning chains spanning six diverse tasks:
+
+<table>
+<thead>
+<tr>
+<th align="left">🎯 <b>Task</b></th>
+<th align="left">📚 <b>Source</b></th>
+<th align="right">🔢 <b>#Samples</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>AV-QA (Music-AVQA)</b></td>
+<td>🎵 Music-AVQA dataset</td>
+<td align="right">1000</td>
+</tr>
+<tr>
+<td><b>AV-QA (AVSD)</b></td>
+<td>🎥 AVSD dataset</td>
+<td align="right">1000</td>
+</tr>
+<tr>
+<td><b>AV-Captioning</b></td>
+<td>📝 VALOR dataset</td>
+<td align="right">1000</td>
+</tr>
+<tr>
+<td><b>AV-Compositional</b></td>
+<td>🌐 Web-scraped pairs</td>
+<td align="right">1000</td>
+</tr>
+<tr>
+<td><b>AV-GeoIQ</b></td>
+<td>🗺️ Manually authored</td>
+<td align="right">200</td>
+</tr>
+<tr>
+<td><b>AV-Meme</b></td>
+<td>🎭 AV-Odyssey Bench + augmentation</td>
+<td align="right">100</td>
+</tr>
+<tr>
+<td><b>Dance–Music Match</b></td>
+<td>💃 DM-Match</td>
+<td align="right">200</td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td></td>
+<td align="right"><b>4500</b></td>
+</tr>
+</tbody>
+</table>
+
+📦 **Download the dataset:** [➡️ Click here](https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/EqGQOZ6fPapIs4B78RZbWtEBKrPkeqfZRDW_MKv8gjpYfg?e=xiWQ0E)
+
+
+
+
+
+
 ## Citation
 If you find **AURELIA** useful in your research, please cite:
 ```bibtex
